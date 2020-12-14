@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.4\Project11.4\Source.cpp(70,7): warning C4101: 'filename': unreferenced local variable
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.4\Project11.4\Source.cpp(66,31): warning C4101: 'index': unreferenced local variable
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.4\UnitTest1\UnitTest1.cpp(21,19): warning C4129: 'L': unrecognized character escape sequence
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.4\UnitTest1\UnitTest1.cpp(38,34): warning C4129: 'L': unrecognized character escape sequence
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.4\Project11.4\Source.cpp(393): warning C4715: 'BinSearch': not all control paths return a value
+  UnitTest1.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Project11.4\Debug\UnitTest1.dll
